@@ -1,0 +1,32 @@
+# Node.js backend
+/backend/node_modules/
+/backend/.env
+/backend/dist/
+/backend/logs/
+*.log
+
+# React frontend
+/frontend/node_modules/
+/frontend/.env
+/frontend/build/
+frontend/public/static/
+
+# General
+.DS_Store
+Thumbs.db
+.env
+*.xlsx
+*.csv
+*.bak
+*.tmp
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific
+*.DS_Store
+*.AppleDouble
+._*
